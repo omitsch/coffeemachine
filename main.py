@@ -45,3 +45,4 @@ if wish == "report":
 
 # TODO: Check if resources sufficient
 # TODO: Process coins. Enough money? -> calculate change -> handover drink & enjoy. else refund money
+
