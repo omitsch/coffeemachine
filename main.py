@@ -45,9 +45,3 @@ if wish == "report":
 
 # TODO: Check if resources sufficient
 # TODO: Process coins. Enough money? -> calculate change -> handover drink & enjoy. else refund money
-
-<<<<<<< HEAD
-=======
-# Einfach nur ein test ob das funktioniert
-b = 100
->>>>>>> b100
