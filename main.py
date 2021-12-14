@@ -41,6 +41,8 @@ if wish == "report":
           f"Milk: {resources['milk']}ml\n"
           f"Coffee: {resources['coffee']}g\n"
           f"Money: ${resources['money']}\n")
+else:
+    serve_drink()
 
 
 # TODO: Check if resources sufficient
